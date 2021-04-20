@@ -1,0 +1,3 @@
+[submodule "JobHuntAPIs"]
+	path = JobHuntAPIs
+	url = https://github.com/codingD-T/JobHuntAPI.git
