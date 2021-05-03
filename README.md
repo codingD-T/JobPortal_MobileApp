@@ -51,6 +51,15 @@ Run the following commands -
   $ python manage.py migrate
   $ python manage.py makemigrations
  ``` 
+- ### Run the Server -
+Open the directory of API :
+ ```
+  $ cd Mobile JobPortalAPI/main.py
+ ```
+ To run the server :
+ ```
+  $ python manage.py runserver
+ ```
 
  - ### Run the Mobile Application -
  Open the directory of mobile application :
