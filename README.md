@@ -19,7 +19,7 @@
 
 <div align="center">
   
-![img](screenshots/mobileappUI.jpg)  
+![img](ss/mobileappUI.jpg)  
 
 
 </div>
@@ -32,7 +32,7 @@
 
 Clone the project -
 ```
-  $ git clone https://github.com/codingD-T/JobHunt_Application.git
+  $ git clone https://github.com/codingD-T/JobPortal_MobileApp.git
 ```
   
 Install all the requirements -
