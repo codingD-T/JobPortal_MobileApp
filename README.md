@@ -54,7 +54,7 @@ Run the following commands -
 - ### Run the Server -
 Open the directory of API :
  ```
-  $ cd Mobile JobPortalAPI/main.py
+  $ cd Mobile JobPortalAPI
  ```
  To run the server :
  ```
