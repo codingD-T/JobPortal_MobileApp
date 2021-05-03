@@ -54,7 +54,7 @@ Run the following commands -
 - ### Run the Server -
 Open the directory of API :
  ```
-  $ cd Mobile JobPortalAPI
+  $ cd JobPortalAPI
  ```
  To run the server :
  ```
