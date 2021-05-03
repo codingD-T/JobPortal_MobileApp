@@ -19,7 +19,7 @@
 
 <div align="center">
   
-![img](screenshots/mobileappUI.jpg)  
+![img](ss/mobileappUI.jpg)  
 
 
 </div>
